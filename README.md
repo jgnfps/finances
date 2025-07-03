@@ -26,8 +26,6 @@ API REST para controle financeiro pessoal, desenvolvida com **Java 21 + Spring B
 ## 📑 Como rodar
 
 1️⃣ Clone o projeto:
-```bash
-git clone https://github.com/seuusuario/finances-api.git
 
 ## 📦 Exemplos de uso
 
